@@ -1,0 +1,9 @@
+D:\c#\PictureEffect\PictureEffect\bin\Debug\PictureEffect.exe.config
+D:\c#\PictureEffect\PictureEffect\bin\Debug\PictureEffect.exe
+D:\c#\PictureEffect\PictureEffect\bin\Debug\PictureEffect.pdb
+D:\c#\PictureEffect\PictureEffect\obj\Debug\PictureEffect.csprojResolveAssemblyReference.cache
+D:\c#\PictureEffect\PictureEffect\obj\Debug\PictureEffect.Form1.resources
+D:\c#\PictureEffect\PictureEffect\obj\Debug\PictureEffect.Properties.Resources.resources
+D:\c#\PictureEffect\PictureEffect\obj\Debug\PictureEffect.csproj.GenerateResource.Cache
+D:\c#\PictureEffect\PictureEffect\obj\Debug\PictureEffect.exe
+D:\c#\PictureEffect\PictureEffect\obj\Debug\PictureEffect.pdb
